@@ -15,12 +15,16 @@
     background-color: green;
     height: 50px;
     width: 150px;
-    margin-left: 10px;
+    margin-left: 15px;
 }
 .botones{
     padding-top: 5px;
-    margin-left: 20px;
+    margin-left: 15px;
 }
 body{
     background-color: #9BC08A;
+}
+.boton{
+    height: 35px;
+    width: 35px;
 }
